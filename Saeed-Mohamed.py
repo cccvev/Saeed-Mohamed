@@ -15,7 +15,7 @@ from time import sleep
 import pafy
 import requests
 from random import choice
-from N4Tools.Design import Text, Square, Color
+from N4Tools.Design import Text
 An = Animation
 os.system ("clear")
 def login():
